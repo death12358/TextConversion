@@ -1,8 +1,8 @@
 package main
 
 import (
-	decimalconversion "github.com/death12358/text-conversion/text-conversion/decimalconversion"
-	float64conversion "github.com/death12358/text-conversion/text-conversion/float64conversion"
+	decimalconversion "github.com/death12358/text-conversion/decimalconversion"
+	float64conversion "github.com/death12358/text-conversion/float64conversion"
 	"github.com/shopspring/decimal"
 )
 
