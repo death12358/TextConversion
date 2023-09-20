@@ -1,4 +1,4 @@
-package decimalConversion
+package decimalconversion
 
 import (
 	"fmt"

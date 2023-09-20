@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/death12358/TextConversion.git/decimalConversion"
-	float64conversion "github.com/death12358/TextConversion.git/float64Conversion"
+	decimalconversion "github.com/death12358/TextConversion.git/decimal-conversion"
+	float64conversion "github.com/death12358/TextConversion.git/float64conversion"
 	"github.com/shopspring/decimal"
 )
 
@@ -42,6 +42,6 @@ func main() {
 		decimal.NewFromFloat(500),
 		decimal.NewFromFloat(1000),
 	}
-	decimalConversion.Float64(initValues)
+	decimalconversion.Float64(initValues)
 	float64conversion.Decimal([]float64{123, 456})
 }
