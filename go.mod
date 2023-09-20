@@ -1,4 +1,4 @@
-module DecimaltoFloat64
+module github.com/death12358/TextConversion.git
 
 go 1.21.1
 
