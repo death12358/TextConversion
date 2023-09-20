@@ -1,4 +1,4 @@
-module Cfunc
+module DecimaltoFloat64
 
 go 1.21.1
 
