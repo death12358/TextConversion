@@ -1,4 +1,4 @@
-package float64Conversion
+package float64conversion
 
 import "fmt"
 
